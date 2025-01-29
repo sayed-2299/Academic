@@ -1,4 +1,4 @@
-numbers=map(int,input('Enter the numbers:').split())
+numbers=list(map(int,input('Enter the numbers:').split()))
 
 sum_of_odd =0
 sum_of_even=0
