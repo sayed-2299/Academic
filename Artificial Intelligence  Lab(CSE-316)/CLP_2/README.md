@@ -1,10 +1,10 @@
-##Task-1: **Remove duplicates and sort in ascending order**  
+##Task-1:Remove duplicates and sort in ascending order 
    ![Remove duplicates and sort](screenshot/1.png)  
 
-##Task-2: **Find the common elements between two lists using sets**  
+##Task-2:Find the common elements between two lists using sets  
    ![Find common elements](screenshot/2.png)  
 
-3. **Create a tuple of student records and sort by grade**  
+## Create a tuple of student records and sort by grade**  
    ![Tuple of student records](screenshot/3.png)  
 
 4. **Count word occurrences in a given text and store them in a dictionary**  
