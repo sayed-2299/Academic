@@ -7,7 +7,7 @@
 ![Smallest Number in a Set](ScreenShot/task_2.png)
 
 ### Task 3: Write a Python program to find the sum of numbers between 50 and 100 (divisible by 3, not by 5)  
-![Sum Between 50-100 (ScreenShot/task_3.png)
+![Sum Between 50-100] (ScreenShot/task_3.png)
 
 ### Task 4: Write a Python program to find the second highest number from a set of numbers  
 ![Second Highest Number](ScreenShot/task_4.png)
