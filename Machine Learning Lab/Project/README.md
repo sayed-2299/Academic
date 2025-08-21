@@ -1,4 +1,4 @@
-# Sarcasm Detection with Context
+# Sarcasm Detection using Bi-LSTM with GloVe Embeddings and Context
 
 This project demonstrates the importance of context in detecting sarcasm.  
 Detecting sarcasm from short texts is challenging, as key contextual information is often missing.  
